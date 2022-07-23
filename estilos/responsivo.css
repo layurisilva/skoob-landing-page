@@ -73,6 +73,16 @@
         width: 250px;
         height: 380px;
         border-radius: 35px;
+        color: #0087BF;
+    }
+
+    .retangulo-1:hover{
+        background-color: #1face8;
+        width: 250px;
+        height: 380px;
+        border-radius: 35px;
+        color: #FFFFFF;
+        transition-duration: 1s;
     }
     
     .retangulo-1-img{
@@ -89,7 +99,6 @@
         font-size: 16px;
         line-height: 20px;
         text-align: center;
-        color: #0087BF;
     }
 
     .retangulo-2{
@@ -97,8 +106,18 @@
         width: 250px;
         height: 380px;
         border-radius: 35px;
+        color: #0087BF;
     }
     
+    .retangulo-2:hover{
+        background-color: #1face8;
+        width: 250px;
+        height: 380px;
+        border-radius: 35px;
+        color: #FFFFFF;
+        transition-duration: 1s;
+    }
+
     .retangulo-2-img{
         padding: 40px 25px 0px 25px;
         width: 178.69px;
@@ -113,8 +132,6 @@
         font-size: 16px;
         line-height: 20px;
         text-align: center;
-
-        color: #0087BF;
     }
 
     .retangulo-3{
@@ -122,6 +139,16 @@
         width: 250px;
         height: 380px;
         border-radius: 35px;
+        color: #0087BF;
+    }
+
+    .retangulo-3:hover{
+        background-color: #1face8;
+        width: 250px;
+        height: 380px;
+        border-radius: 35px;
+        color: #FFFFFF;
+        transition-duration: 1s;
     }
     
     .retangulo-3-img{
@@ -138,7 +165,6 @@
         font-size: 16px;
         line-height: 20px;
         text-align: center;
-        color: #0087BF;
     }
 
     footer{
