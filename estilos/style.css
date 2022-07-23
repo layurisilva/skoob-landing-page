@@ -201,3 +201,24 @@ button:hover{
     border-radius: 35.1313px;
     color: #0087BF;
 }
+
+footer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: auto;
+    gap: 40px;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+footer > p{
+    font-family: 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    color: #0087BF;
+}
