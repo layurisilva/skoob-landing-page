@@ -1,0 +1,48 @@
+@charset "UTF-8";
+@media (max-width: 800px) {
+    body{
+        display: block;
+        background: linear-gradient(180deg,#007bb0 10%, #0087BF 45%, #FFFFFF);
+    }
+
+    .conteudo-principal{
+        padding-top: 40px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        gap: 30px;
+        margin: auto;
+        padding: 60px;
+    }
+    
+    .conteudo-principal-escrito{
+        display: flex;
+        flex-direction: column;
+        color: #FFFFFF;
+        text-align: center;
+    }
+
+    .conteudo-principal-imagem{
+        display: none;
+    }
+    
+    .titulo-principal{
+        font-family: 'Arial';
+        font-style: bold;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 30px;
+        padding-bottom: 15px;
+    }
+    
+    .conteudo-secundario{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin: auto;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+}
