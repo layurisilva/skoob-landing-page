@@ -181,6 +181,7 @@ button:hover{
     width: 300px;
     height: 380px;
     border-radius: 35px;
+    margin-bottom: 60px;
 }
 
 .retangulo-3-img{
@@ -215,7 +216,7 @@ footer{
     padding-bottom: 30px;
 }
 
-footer > p{
+footer > p > a{
     font-family: 'Arial', sans-serif;
     font-style: normal;
     font-weight: 700;
