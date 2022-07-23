@@ -96,3 +96,23 @@ main{
     line-height: 26px;
     padding-bottom: 15px;
 }
+
+button{
+    background-color: #FFFFFF;
+    width: 140px;
+    height: 40px;
+    border-radius: 50px;
+    border-width: 0px;
+    font-family: 'Arial';
+    font-style: bold;
+    font-weight: 700;
+    line-height: 26px;
+    color: #0087BF;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.200);
+}
+
+button:hover{
+    background-color: #0087BF;
+    color: #FFFFFF;
+    transition-duration: .5s;
+}
